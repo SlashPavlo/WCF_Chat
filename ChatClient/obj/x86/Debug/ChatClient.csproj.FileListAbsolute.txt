@@ -1,0 +1,12 @@
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\MainWindow.baml
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\MainWindow.g.cs
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\App.g.cs
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient_MarkupCompile.cache
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient.g.resources
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient.exe
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatClient\obj\x86\Debug\ChatClient.pdb

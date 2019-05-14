@@ -1,0 +1,8 @@
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\bin\Debug\ChatHost.exe
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\bin\Debug\ChatHost.pdb
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\obj\x86\Debug\ChatHost.csprojResolveAssemblyReference.cache
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\obj\x86\Debug\ChatHost.exe
+c:\users\pavlo\documents\visual studio 2010\Projects\wcf_chat\ChatHost\obj\x86\Debug\ChatHost.pdb
